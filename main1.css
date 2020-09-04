@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+
+</style>
+</head>
+<body>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/368px-Google_2015_logo.svg.png" alt="Google" class="center" width="500" height="200">
+body {
+    background-color: #8ebf42;
+  }
+  
+  form {
+    width: 400px;
+    margin: auto;
+    margin-top: 250px;
+  }
+  
+  input {
+    padding: 4px 10px;
+    border: 0;
+    font-size: 16px;
+  }
+  
+  .search {
+    width: 75%;
+  }
+  
+  .submit {
+    width: 70px;
+    background-color: #1c87c9;
+    color: #ffffff;
+  }
+<style>
+.btn {
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+  }
+</style>  
+
+</body>
+</html>
